@@ -3,7 +3,7 @@ An R Package for Interval Mapping for Quantitative Trait Loci Underlying Neighbo
 
 ## Installation
 The rNeighborQTL package has not yet been registered in CRAN.  
-Please install the package via GitHub by running *devtools::install_github("naganolab/rNeighborQTL")*.  
+Please install the package via GitHub using the devtools library as *devtools::install_github("naganolab/rNeighborQTL")*.  
 
 ## Dependency
 Note that the rNeighborQTL requires the following R packages.  
